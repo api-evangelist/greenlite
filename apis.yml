@@ -1,8 +1,13 @@
 aid: greenlite
 name: Greenlite
-description: 'Greenlite is a company surfaced as a portfolio company of craft-ventures, insight-partners
-  and added to the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'GreenLite Technologies is a construction permitting and plan-review platform that
+  uses AI-powered technology and expert services to streamline building-permit approval for builders,
+  developers, and jurisdictions. Its products include Atlas (a real-time permit tracking and management
+  dashboard), LiteTable (AI-assisted plan review and code-compliance analysis), Private Plan Review (PPR),
+  and Code Compliance & Pre-Check. GreenLite claims to reduce permitting timelines from 90-120+ days to
+  21-45 days and serves national QSR, retail, healthcare, education, and financial-institution brands.
+  Backed by Craft Ventures and Insight Partners. GreenLite currently exposes no public developer API,
+  documentation, or SDKs; this profile captures its company identity and security posture.'
 url: https://raw.githubusercontent.com/api-evangelist/greenlite/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +16,30 @@ x-backed-by:
 - insight-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://greenlite.com/wp-content/uploads/2025/02/elliott-ledain-Nht8376TQU4-unsplash-2-min-1024x683.jpg
 tags:
 - Company
 - Ai
+- Construction
+- Permitting
+- Plan Review
+- Compliance
+- Government
+- Real Estate
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,5 +47,26 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: TrustCenter
+  url: security/greenlite-trust-center.yml
+- type: Compliance
+  url: https://trust.greenlite.com/
+- type: DomainSecurity
+  url: security/greenlite-domain-security.yml
 - type: Website
   url: https://greenlite.com
+- type: Blog
+  url: https://greenlite.com/blog-news-whitepapers/
+- type: Support
+  url: https://greenlite.com/contact-us/
+- type: Login
+  url: https://app.greenlite.com
+- type: TermsOfService
+  url: https://greenlite.com/terms-conditions/
+- type: PrivacyPolicy
+  url: https://greenlite.com/privacy-policy/
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

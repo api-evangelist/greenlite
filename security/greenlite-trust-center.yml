@@ -1,0 +1,18 @@
+generated: '2026-07-19'
+method: searched
+probe: true
+source: https://trust.greenlite.com/
+url: https://trust.greenlite.com/
+certifications:
+- SOC 2 Type 2
+evidence:
+- source: https://trust.greenlite.com/
+  keywords:
+  - soc 2 type 2
+  - trust center
+  - penetration testing report
+  - dsar
+resources:
+- Penetration Testing Report
+- Risk Profile
+- Data Subject Access Request (DSAR)
