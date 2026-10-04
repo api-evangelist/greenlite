@@ -50,7 +50,7 @@ tags:
 - Plan Review
 - Compliance
 - Government
-- Real-Estate
+- Real Estate
 tags_raw:
 - Company
 - Ai
@@ -60,6 +60,7 @@ tags_raw:
 - Compliance
 - Government
 - Real Estate
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
