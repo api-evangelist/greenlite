@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Greenlite is a company surfaced as a portfolio company of craft-ventures, insight-partners and added to the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment pipeline.
+GreenLite Technologies is a construction permitting and plan-review platform that uses AI-powered technology and expert services to streamline building-permit approval for builders, developers, and jurisdictions. Its products include Atlas (a real-time permit tracking and management dashboard), LiteTable (AI-assisted plan review and code-compliance analysis), Private Plan Review (PPR), and Code Compliance & Pre-Check. GreenLite claims to reduce permitting timelines from 90-120+ days to 21-45 days and serves national QSR, retail, healthcare, education, and financial-institution brands. Backed by Craft Ventures and Insight Partners. GreenLite currently exposes no public developer API, documentation, or SDKs; this profile captures its company identity and security posture.
 
-Backed by: craft-ventures, insight-partners — https://greenlite.com
+**Areas:** Company · Artificial Intelligence · Construction · Permitting · Plan Review · Compliance · Government · Real Estate
+
+## Greenlite on APIs.io
+
+Everything profiled for Greenlite is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/greenlite/](https://apis.io/providers/greenlite/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Greenlite Domain Security](https://apis.io/security/greenlite/greenlite-domain-security/)
+- [Greenlite Trust Center](https://apis.io/security/greenlite/greenlite-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://greenlite.com)
+- [Support](https://greenlite.com/contact-us/)
+- [Blog](https://greenlite.com/blog-news-whitepapers/)
+- [Compliance](https://trust.greenlite.com/)
+- [Terms of service](https://greenlite.com/terms-conditions/)
+- [Privacy policy](https://greenlite.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 15.5** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 43.4 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 17.3** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/greenlite/](https://apis.io/providers/greenlite/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Greenlite: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/greenlite/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
